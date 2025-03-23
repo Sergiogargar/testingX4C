@@ -20,5 +20,4 @@ public class VerticleReciever extends AbstractVerticle{
 	public void stop(Promise<Void> stopFuture) throws Exception {
 		super.stop(stopFuture);
 	}
-	
 }
